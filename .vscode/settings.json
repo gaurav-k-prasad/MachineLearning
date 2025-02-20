@@ -27,13 +27,6 @@
 		"string": "cpp",
 		"sstream": "c"
 	},
-	"cSpell.words": [
-		"columnspan",
-		"highlightthickness",
-		"mediapipe",
-		"nums",
-		"padx",
-		"pady"
-	],
+	"cSpell.words": ["columnspan", "highlightthickness", "mediapipe", "nums", "padx", "pady"],
 	"C_Cpp.intelliSenseEngineFallback": "disabled"
 }
